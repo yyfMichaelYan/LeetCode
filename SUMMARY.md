@@ -6,9 +6,9 @@
 
 * [82. Remove Duplicates from Sorted List II](linked-list/82.-remove-duplicates-from-sorted-list-ii.md)
 
-## Binary Search <a id="array"></a>
+## Binary Search
 
-* [1539. Kth Missing Positive Number](array/1539.-kth-missing-positive-number.md)
+* [1539. Kth Missing Positive Number](binary-search/1539.-kth-missing-positive-number.md)
 
 ## Two Pointers
 
