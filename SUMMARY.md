@@ -12,5 +12,10 @@
 
 ## Two Pointers
 
+* [1662. Check If Two String Arrays are Equivalent](two-pointers/1662.-check-if-two-string-arrays-are-equivalent.md)
 * [3. Longest Substring Without Repeating Characters](two-pointers/3.-longest-substring-without-repeating-characters.md)
+
+## Breadth First Search
+
+* [127. Word Ladder](breadth-first-search/127.-word-ladder.md)
 
