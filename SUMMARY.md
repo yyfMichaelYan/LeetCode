@@ -19,3 +19,7 @@
 
 * [127. Word Ladder](breadth-first-search/127.-word-ladder.md)
 
+## Merge Sort
+
+* [315. Count of Smaller Numbers After Self](merge-sort/315.-count-of-smaller-numbers-after-self.md)
+
