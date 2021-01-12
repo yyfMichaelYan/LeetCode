@@ -12,6 +12,7 @@
 
 ## Two Pointers
 
+* [88. Merge Sorted Array](two-pointers/88.-merge-sorted-array.md)
 * [1662. Check If Two String Arrays are Equivalent](two-pointers/1662.-check-if-two-string-arrays-are-equivalent.md)
 * [3. Longest Substring Without Repeating Characters](two-pointers/3.-longest-substring-without-repeating-characters.md)
 
