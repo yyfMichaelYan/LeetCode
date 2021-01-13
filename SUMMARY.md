@@ -25,3 +25,7 @@
 
 * [315. Count of Smaller Numbers After Self](merge-sort/315.-count-of-smaller-numbers-after-self.md)
 
+## Intervals
+
+* [763. Partition Labels](intervals/763.-partition-labels.md)
+
