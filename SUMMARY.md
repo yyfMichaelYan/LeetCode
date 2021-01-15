@@ -18,6 +18,7 @@
 * [88. Merge Sorted Array](two-pointers/88.-merge-sorted-array.md)
 * [881. Boats to Save People](two-pointers/881.-boats-to-save-people.md)
 * [1662. Check If Two String Arrays are Equivalent](two-pointers/1662.-check-if-two-string-arrays-are-equivalent.md)
+* [1658. Minimum Operations to Reduce X to Zero](two-pointers/1658.-minimum-operations-to-reduce-x-to-zero.md)
 
 ## Breadth First Search
 
@@ -30,4 +31,8 @@
 ## Intervals
 
 * [763. Partition Labels](intervals/763.-partition-labels.md)
+
+## Hash Table
+
+* [325. Maximum Size Subarray Sum Equals k](hash-table/325.-maximum-size-subarray-sum-equals-k.md)
 
