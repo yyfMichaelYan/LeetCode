@@ -36,3 +36,7 @@
 
 * [325. Maximum Size Subarray Sum Equals k](hash-table/325.-maximum-size-subarray-sum-equals-k.md)
 
+## Quick Sort/Select
+
+* [215. Kth Largest Element in an Array](quick-sort-select/215.-kth-largest-element-in-an-array.md)
+
