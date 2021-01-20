@@ -41,3 +41,7 @@
 
 * [215. Kth Largest Element in an Array](quick-sort-select/215.-kth-largest-element-in-an-array.md)
 
+## Dynamic Programming
+
+* [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
+
