@@ -45,3 +45,7 @@
 
 * [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
 
+## Stack
+
+* [20. Valid Parentheses](stack/20.-valid-parentheses.md)
+
