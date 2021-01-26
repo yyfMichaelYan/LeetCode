@@ -53,3 +53,7 @@
 
 * [161. One Edit Distance](string/161.-one-edit-distance.md)
 
+## Graph
+
+* [1631. Path With Minimum Effort](graph/1631.-path-with-minimum-effort.md)
+
