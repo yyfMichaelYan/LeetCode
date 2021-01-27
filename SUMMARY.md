@@ -57,3 +57,7 @@
 
 * [1631. Path With Minimum Effort](graph/1631.-path-with-minimum-effort.md)
 
+## Bit Operation
+
+* [1680. Concatenation of Consecutive Binary Numbers](bit-operation/1680.-concatenation-of-consecutive-binary-numbers.md)
+
