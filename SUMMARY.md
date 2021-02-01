@@ -34,6 +34,7 @@
 
 ## Hash Table
 
+* [1. Two Sum](hash-table/1.-two-sum.md)
 * [325. Maximum Size Subarray Sum Equals k](hash-table/325.-maximum-size-subarray-sum-equals-k.md)
 * [1679. Max Number of K-Sum Pairs](hash-table/1679.-max-number-of-k-sum-pairs.md)
 
