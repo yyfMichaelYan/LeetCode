@@ -59,5 +59,6 @@
 
 ## Bit Operation
 
+* [191. Number of 1 Bits](bit-operation/191.-number-of-1-bits.md)
 * [1680. Concatenation of Consecutive Binary Numbers](bit-operation/1680.-concatenation-of-consecutive-binary-numbers.md)
 
