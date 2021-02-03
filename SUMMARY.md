@@ -34,7 +34,6 @@
 
 ## Hash Table
 
-* [1. Two Sum](hash-table/1.-two-sum.md)
 * [325. Maximum Size Subarray Sum Equals k](hash-table/325.-maximum-size-subarray-sum-equals-k.md)
 * [1679. Max Number of K-Sum Pairs](hash-table/1679.-max-number-of-k-sum-pairs.md)
 
@@ -62,4 +61,9 @@
 
 * [191. Number of 1 Bits](bit-operation/191.-number-of-1-bits.md)
 * [1680. Concatenation of Consecutive Binary Numbers](bit-operation/1680.-concatenation-of-consecutive-binary-numbers.md)
+
+## Array
+
+* [1. Two Sum](array/1.-two-sum.md)
+* [42. Trapping Rain Water](array/42.-trapping-rain-water.md)
 
