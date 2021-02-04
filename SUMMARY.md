@@ -66,4 +66,5 @@
 
 * [1. Two Sum](array/1.-two-sum.md)
 * [42. Trapping Rain Water](array/42.-trapping-rain-water.md)
+* [56. Merge Intervals](array/56.-merge-intervals.md)
 
