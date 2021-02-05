@@ -48,6 +48,7 @@
 ## Stack
 
 * [20. Valid Parentheses](stack/20.-valid-parentheses.md)
+* [71. Simplify Path](stack/71.-simplify-path.md)
 
 ## String
 
