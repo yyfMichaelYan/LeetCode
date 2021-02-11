@@ -56,6 +56,7 @@
 
 ## Graph
 
+* [694. Number of Distinct Islands](graph/694.-number-of-distinct-islands.md)
 * [1631. Path With Minimum Effort](graph/1631.-path-with-minimum-effort.md)
 
 ## Bit Operation
