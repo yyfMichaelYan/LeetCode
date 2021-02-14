@@ -57,6 +57,7 @@
 ## Graph
 
 * [694. Number of Distinct Islands](graph/694.-number-of-distinct-islands.md)
+* [785. Is Graph Bipartite?](graph/785.-is-graph-bipartite.md)
 * [1631. Path With Minimum Effort](graph/1631.-path-with-minimum-effort.md)
 
 ## Bit Operation
