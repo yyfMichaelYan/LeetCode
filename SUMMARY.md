@@ -49,6 +49,7 @@
 
 * [20. Valid Parentheses](stack/20.-valid-parentheses.md)
 * [71. Simplify Path](stack/71.-simplify-path.md)
+* [856. Score of Parentheses](stack/856.-score-of-parentheses.md)
 
 ## String
 
