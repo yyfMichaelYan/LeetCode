@@ -2,13 +2,68 @@
 
 * [Initial page](README.md)
 
-## Linked List
+## Array
 
-* [82. Remove Duplicates from Sorted List II](linked-list/82.-remove-duplicates-from-sorted-list-ii.md)
+* [1. Two Sum](array/1.-two-sum.md)
+* [42. Trapping Rain Water](array/42.-trapping-rain-water.md)
+* [56. Merge Intervals](array/56.-merge-intervals.md)
+* [121. Best Time to Buy and Sell Stock](array/121.-best-time-to-buy-and-sell-stock.md)
+* [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
 
 ## Binary Search
 
 * [1539. Kth Missing Positive Number](binary-search/1539.-kth-missing-positive-number.md)
+
+## Bit Operation
+
+* [191. Number of 1 Bits](bit-operation/191.-number-of-1-bits.md)
+* [1680. Concatenation of Consecutive Binary Numbers](bit-operation/1680.-concatenation-of-consecutive-binary-numbers.md)
+
+## Breadth First Search
+
+* [127. Word Ladder](breadth-first-search/127.-word-ladder.md)
+
+## Dynamic Programming
+
+* [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
+
+## Graph
+
+* [694. Number of Distinct Islands](graph/694.-number-of-distinct-islands.md)
+* [785. Is Graph Bipartite?](graph/785.-is-graph-bipartite.md)
+* [1631. Path With Minimum Effort](graph/1631.-path-with-minimum-effort.md)
+
+## Hash Table
+
+* [325. Maximum Size Subarray Sum Equals k](hash-table/325.-maximum-size-subarray-sum-equals-k.md)
+* [1679. Max Number of K-Sum Pairs](hash-table/1679.-max-number-of-k-sum-pairs.md)
+
+## Intervals
+
+* [763. Partition Labels](intervals/763.-partition-labels.md)
+
+## Linked List
+
+* [82. Remove Duplicates from Sorted List II](linked-list/82.-remove-duplicates-from-sorted-list-ii.md)
+
+## Merge Sort
+
+* [315. Count of Smaller Numbers After Self](merge-sort/315.-count-of-smaller-numbers-after-self.md)
+
+## Quick Sort/Select
+
+* [215. Kth Largest Element in an Array](quick-sort-select/215.-kth-largest-element-in-an-array.md)
+
+## Stack
+
+* [20. Valid Parentheses](stack/20.-valid-parentheses.md)
+* [71. Simplify Path](stack/71.-simplify-path.md)
+* [856. Score of Parentheses](stack/856.-score-of-parentheses.md)
+* [946. Validate Stack Sequences](stack/946.-validate-stack-sequences.md)
+
+## String
+
+* [161. One Edit Distance](string/161.-one-edit-distance.md)
 
 ## Two Pointers
 
@@ -19,58 +74,4 @@
 * [881. Boats to Save People](two-pointers/881.-boats-to-save-people.md)
 * [1662. Check If Two String Arrays are Equivalent](two-pointers/1662.-check-if-two-string-arrays-are-equivalent.md)
 * [1658. Minimum Operations to Reduce X to Zero](two-pointers/1658.-minimum-operations-to-reduce-x-to-zero.md)
-
-## Breadth First Search
-
-* [127. Word Ladder](breadth-first-search/127.-word-ladder.md)
-
-## Merge Sort
-
-* [315. Count of Smaller Numbers After Self](merge-sort/315.-count-of-smaller-numbers-after-self.md)
-
-## Intervals
-
-* [763. Partition Labels](intervals/763.-partition-labels.md)
-
-## Hash Table
-
-* [325. Maximum Size Subarray Sum Equals k](hash-table/325.-maximum-size-subarray-sum-equals-k.md)
-* [1679. Max Number of K-Sum Pairs](hash-table/1679.-max-number-of-k-sum-pairs.md)
-
-## Quick Sort/Select
-
-* [215. Kth Largest Element in an Array](quick-sort-select/215.-kth-largest-element-in-an-array.md)
-
-## Dynamic Programming
-
-* [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
-
-## Stack
-
-* [20. Valid Parentheses](stack/20.-valid-parentheses.md)
-* [71. Simplify Path](stack/71.-simplify-path.md)
-* [856. Score of Parentheses](stack/856.-score-of-parentheses.md)
-
-## String
-
-* [161. One Edit Distance](string/161.-one-edit-distance.md)
-
-## Graph
-
-* [694. Number of Distinct Islands](graph/694.-number-of-distinct-islands.md)
-* [785. Is Graph Bipartite?](graph/785.-is-graph-bipartite.md)
-* [1631. Path With Minimum Effort](graph/1631.-path-with-minimum-effort.md)
-
-## Bit Operation
-
-* [191. Number of 1 Bits](bit-operation/191.-number-of-1-bits.md)
-* [1680. Concatenation of Consecutive Binary Numbers](bit-operation/1680.-concatenation-of-consecutive-binary-numbers.md)
-
-## Array
-
-* [1. Two Sum](array/1.-two-sum.md)
-* [42. Trapping Rain Water](array/42.-trapping-rain-water.md)
-* [56. Merge Intervals](array/56.-merge-intervals.md)
-* [121. Best Time to Buy and Sell Stock](array/121.-best-time-to-buy-and-sell-stock.md)
-* [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
 
