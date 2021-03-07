@@ -23,6 +23,10 @@
 
 * [127. Word Ladder](breadth-first-search/127.-word-ladder.md)
 
+## Design
+
+* [706. Design HashMap](design/706.-design-hashmap.md)
+
 ## Dynamic Programming
 
 * [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
