@@ -30,6 +30,7 @@
 ## Dynamic Programming
 
 * [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
+* [322. Coin Change](dynamic-programming/322.-coin-change.md)
 
 ## Graph
 
