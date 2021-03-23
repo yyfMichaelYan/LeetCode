@@ -9,6 +9,7 @@
 * [56. Merge Intervals](array/56.-merge-intervals.md)
 * [121. Best Time to Buy and Sell Stock](array/121.-best-time-to-buy-and-sell-stock.md)
 * [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
+* [923. 3Sum With Multiplicity](array/923.-3sum-with-multiplicity.md)
 
 ## Binary Search
 
