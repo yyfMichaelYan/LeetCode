@@ -83,3 +83,7 @@
 * [1662. Check If Two String Arrays are Equivalent](two-pointers/1662.-check-if-two-string-arrays-are-equivalent.md)
 * [1658. Minimum Operations to Reduce X to Zero](two-pointers/1658.-minimum-operations-to-reduce-x-to-zero.md)
 
+## Topological Sort
+
+* [1136. Parallel Courses](topological-sort/1136.-parallel-courses.md)
+
