@@ -32,6 +32,7 @@
 
 * [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
 * [322. Coin Change](dynamic-programming/322.-coin-change.md)
+* [474. Ones and Zeroes](dynamic-programming/474.-ones-and-zeroes.md)
 * [647. Palindromic Substrings](dynamic-programming/647.-palindromic-substrings.md)
 
 ## Graph
