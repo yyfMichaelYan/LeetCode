@@ -20,9 +20,13 @@
 * [191. Number of 1 Bits](bit-operation/191.-number-of-1-bits.md)
 * [1680. Concatenation of Consecutive Binary Numbers](bit-operation/1680.-concatenation-of-consecutive-binary-numbers.md)
 
-## Breadth First Search
+## Breadth-First Search
 
 * [127. Word Ladder](breadth-first-search/127.-word-ladder.md)
+
+## Depth-First Search
+
+* [1192. Critical Connections in a Network](depth-first-search/1192.-critical-connections-in-a-network.md)
 
 ## Design
 
