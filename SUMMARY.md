@@ -27,6 +27,7 @@
 
 ## Depth-First Search
 
+* [79. Word Search](depth-first-search/79.-word-search.md)
 * [1192. Critical Connections in a Network](depth-first-search/1192.-critical-connections-in-a-network.md)
 
 ## Design
